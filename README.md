@@ -5,3 +5,4 @@ Atcoder 233に関するコード
 https://atcoder.jp/contests/abc233/tasks
 
 ## 参考記事
+https://kuroro.blog/atcoder/uo7dmbxJmzsrUaOQflDA/
